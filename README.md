@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm a passionate developer focused on building sca
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arannamoy&theme=professional&layout=compact)
 
 ---
-
+<!--
 ## 🚀 Featured Projects
 
 ### [Project Name](link)
